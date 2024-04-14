@@ -18,6 +18,7 @@
     <string name="lemon">лимон</string>
     <string name="order">Имя: %s\nПароль: %s\nНапиток: %s\nВид напитка: %s\n</string>
     <string name="need_additions">"Необходимые добавки: "</string>
+    <string name="add_to_order">Кнопка отправить заказ</string>
 
 
     <string-array name="options_of_coffee">
