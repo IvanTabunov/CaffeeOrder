@@ -63,8 +63,7 @@
         android:textColor="@color/darkBrown"
         android:layout_margin="8dp"
         android:textSize="20sp"
-        android:textStyle="bold"
-        />
+        android:textStyle="bold" />
 
     <CheckBox
         android:id="@+id/checkboxMilk"
